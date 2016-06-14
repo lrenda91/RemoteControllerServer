@@ -1,0 +1,13 @@
+﻿<Controls:MetroWindow x:Class="Server.Graphics.ProgressWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        ResizeMode="NoResize"
+        Title="File Transfer" Height="154.901" Width="453.211" ShowCloseButton="False">
+
+    <Grid>
+        <Controls:MetroProgressBar x:Name="bar" HorizontalAlignment="Center" Height="34" Margin="22,44,21,0" VerticalAlignment="Top" Width="402" />
+        <Label x:Name="progressLabel" Content="" HorizontalAlignment="Left" Margin="20,83,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.038,0.423" Width="405"/>
+        <Label x:Name="titleLabel" Content="" HorizontalAlignment="Left" Margin="21,14,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.05,0.423" Width="403"/>
+    </Grid>
+</Controls:MetroWindow>

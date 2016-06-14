@@ -1,0 +1,134 @@
+C:\Users\Luigi\Desktop\server\Server\bin\Debug\Server.exe.config
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\App.g.cs
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\ServerGUI.baml
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\ServerGUI.g.cs
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Server.g.resources
+C:\Users\Luigi\Desktop\server\Server\bin\Debug\Server.exe
+C:\Users\Luigi\Desktop\server\Server\bin\Debug\Server.pdb
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Server.exe
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Server.pdb
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Graphics\ProgressWindow.baml
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Graphics\ProgressWindow.g.cs
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Graphics\LoginWindow.baml
+C:\Users\Luigi\Desktop\server\Server\obj\Debug\Graphics\LoginWindow.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Graphics\TransferWindow.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Graphics\LoginWindow.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Graphics\TransferWindow.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\ServerGUI.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\App.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\bin\Debug\Server.exe.config
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\bin\Debug\Server.exe
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\bin\Debug\Server.pdb
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Graphics\LoginWindow.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\ServerGUI.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Server.g.resources
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Server.exe
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Server.pdb
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\PROGETTO\Server\bin\Debug\Server.exe.config
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Server.exe
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Server.pdb
+C:\Users\Luigi\Desktop\PROGETTO\Server\bin\Debug\Server.exe
+C:\Users\Luigi\Desktop\PROGETTO\Server\bin\Debug\Server.pdb
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Graphics\TransferWindow.baml
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Graphics\LoginWindow.g.cs
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Graphics\TransferWindow.g.cs
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\ServerGUI.g.cs
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\App.g.cs
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Graphics\LoginWindow.baml
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\ServerGUI.baml
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Server.g.resources
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Luigi\Desktop\PROGETTO\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\bin\Debug\Server.exe.config
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\bin\Debug\Server.exe
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\bin\Debug\Server.pdb
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\bin\Debug\MahApps.Metro.dll
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\bin\Debug\MahApps.Metro.pdb
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\bin\Debug\MahApps.Metro.xml
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Graphics\ProgressWindow.baml
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\App.baml
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Graphics\LoginWindow.g.cs
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Graphics\ProgressWindow.g.cs
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\ServerGUI.g.cs
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\App.g.cs
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Graphics\LoginWindow.baml
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\ServerGUI.baml
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Server.g.resources
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Server.exe
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Server.pdb
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Resources\Icons.baml
+C:\Users\Luigi\Desktop\PROGETTO AGGIORNATO\Server\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\bin\Debug\Server.exe.config
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\bin\Debug\Server.exe
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\bin\Debug\Server.pdb
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\bin\Debug\MahApps.Metro.dll
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\bin\Debug\MahApps.Metro.pdb
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\bin\Debug\MahApps.Metro.xml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Graphics\ProgressWindow.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Resources\Icons.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\App.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Graphics\LoginWindow.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Graphics\ProgressWindow.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\ServerGUI.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\App.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Graphics\LoginWindow.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\ServerGUI.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Server.g.resources
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Server.exe
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO (1)\Server\obj\Debug\Server.pdb
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\bin\Debug\Server.exe.config
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\bin\Debug\Server.exe
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\bin\Debug\Server.pdb
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\bin\Debug\MahApps.Metro.dll
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\bin\Debug\MahApps.Metro.pdb
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\bin\Debug\MahApps.Metro.xml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Graphics\ProgressWindow.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Resources\Icons.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\App.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Graphics\LoginWindow.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Graphics\ProgressWindow.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\ServerGUI.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\App.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Graphics\LoginWindow.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\ServerGUI.baml
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Server.g.resources
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Server.exe
+C:\Users\Luigi\Google Drive\Progetti PoliTO\progetto PdS\PROGETTO AGGIORNATO\Server\obj\Debug\Server.pdb

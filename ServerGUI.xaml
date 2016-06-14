@@ -1,0 +1,121 @@
+﻿<Controls:MetroWindow
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:loc="clr-namespace:Server.ViewModel" 
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        x:Class="Server.ServerGUI"
+        Title="Remote controller" 
+        Height="500" 
+        Width="480"
+        Loaded="ServerGUI_Loaded"
+        Unloaded="ServerGUI_Unloaded"
+        ResizeMode="CanMinimize"
+        GlowBrush="{DynamicResource AccentColorBrush}" Padding="10">
+
+    <Window.DataContext>
+        <loc:Settings/>
+    </Window.DataContext>
+
+    <Grid Margin="10,0,10,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TabControl VerticalAlignment="Top">
+            <TabItem Header="Connect to Master" HorizontalAlignment="Center" Height="40" VerticalAlignment="Top" >
+                <Grid VerticalAlignment="Top">
+                    <!--<Grid.Background>
+                        <ImageBrush ImageSource="{Binding ConnectionImage}" Stretch="Uniform" />
+                    </Grid.Background>-->
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Grid.Column="0" Margin="5" TextWrapping="Wrap" Text="Keepalive port:" VerticalAlignment="Center"/>
+                    <TextBox Grid.Row="0" Grid.Column="1"  Margin="5" Text="{Binding KeepAlivePort, Mode=TwoWay}" VerticalAlignment="Center" TextAlignment="Center"/>
+                    <TextBlock Grid.Row="1" Grid.Column="0" Margin="5" TextWrapping="Wrap" Text="Listening port:" VerticalAlignment="Center"/>
+                    <TextBox Grid.Row="1" Grid.Column="1"  Margin="5" Text="{Binding MainConnectionPort, Mode=TwoWay}" VerticalAlignment="Center" TextAlignment="Center"/>
+                    <TextBlock Grid.Row="2" Grid.Column="0" Margin="5" TextWrapping="Wrap" Text="Password (8 characters minimum):" VerticalAlignment="Center"/>
+                    <PasswordBox Grid.Row="2" Grid.Column="1" Margin="5" VerticalAlignment="Center" loc:PasswordHelper.Attach="True" loc:PasswordHelper.Password="{Binding Path=Password, Mode=TwoWay}"/>
+                    <Image Grid.Row="3" Grid.ColumnSpan="2" Margin="5" Source="{Binding ConnectionImage}" Stretch="Uniform"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Mouse and Keyboard" HorizontalAlignment="Center" Height="40" RenderTransformOrigin="-5.083,0.538">
+                <Grid >
+                    <!--<Grid.Background>
+                        <ImageBrush ImageSource="{Binding InputBackgroundImage}" Stretch="Uniform" />
+                    </Grid.Background>-->
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="100"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Grid.Column="0" TextWrapping="Wrap" Margin="5" VerticalAlignment="Center" Text="Listening port:" />
+                    <TextBox Grid.Row="0" Grid.Column="1" Margin="5"  Text="{Binding InputReceivingPort, Mode=TwoWay}" VerticalAlignment="Center" TextAlignment="Center"/>
+                    <Image Grid.Row="3" Grid.ColumnSpan="2" Margin="5" Source="{Binding InputBackgroundImage}" Stretch="Uniform"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Clipboard" HorizontalAlignment="Center" Height="40">
+                <Grid>
+                   <!-- <Grid.Background>
+                        <ImageBrush ImageSource="{Binding ClipboardBackgroundImage}" Stretch="Uniform" />
+                    </Grid.Background>-->
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="80"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="40"/>
+                        
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Grid.Column="0" Margin="5" TextWrapping="Wrap" VerticalAlignment="Center" Text="Receive Clipboard updates on TCP port:"/>
+                    <TextBox Grid.Row="0" Grid.Column="1" Margin="5" TextAlignment="Center" VerticalAlignment="Center" Text="{Binding ClipboardReceivingPort, Mode=TwoWay}"/>
+                    <Grid Grid.Row="1" Grid.Column="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Grid.Column="1" Height="20" Width="60" HorizontalAlignment="Left" Content="Browse" Click="Select_Backup_Folder_Button_Click"/>
+                        <TextBlock Grid.Row="2" Grid.Column="0" Margin="5" TextWrapping="Wrap" VerticalAlignment="Center" Text="Keep Clipboard updates inside backup directory:"/>
+                    </Grid>
+                    <ScrollViewer Grid.Row="1" Grid.Column="1">
+                        <TextBlock x:Name="pathTextBlock" Margin="5" VerticalAlignment="Center" TextWrapping="WrapWithOverflow"  Text="{Binding TempFolderPath, Mode=TwoWay}"/>
+                    </ScrollViewer>
+                    <TextBlock Grid.Row="2" Grid.Column="0" TextWrapping="Wrap" Margin="5" VerticalAlignment="Center" Text="Send my Clipboard content on TCP port:"/>
+                    <TextBox Grid.Row="2" Grid.Column="1" Margin="5" TextAlignment="Center" VerticalAlignment="Center" Text="{Binding ClipboardTransferPort, Mode=TwoWay}"/>
+                    <TextBlock Grid.Row="3" Grid.Column="0" TextWrapping="Wrap" Margin="5" VerticalAlignment="Center" Text="Ask for confirmation to send files bigger than"/>
+                    <ComboBox  Grid.Row="3" Grid.Column="1" Margin="5" VerticalAlignment="Center" ItemsSource="{Binding List}" SelectedItem="{Binding MaxFileTransferMBString}" />
+                    <Image Grid.Row="4" Grid.ColumnSpan="2" Margin="5" Source="{Binding ClipboardBackgroundImage}" Stretch="Uniform"/>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+        
+            <TextBlock Grid.Column="0" TextWrapping="WrapWithOverflow" Padding="20,0,20,0" x:Name="errorLabel" TextAlignment="Justify" Text="" Foreground="Red"  HorizontalAlignment="Left"/>
+
+            <Button Grid.Column="1" VerticalAlignment="Center" Content="Start" Click="Start_Button_Click"
+                HorizontalAlignment="Center" Padding="20,0,20,0" Command="{Binding Path=Save}" CommandParameter="{Binding RelativeSource={RelativeSource Self}}"/>
+    
+        </Grid>
+    </Grid>
+</Controls:MetroWindow>
